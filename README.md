@@ -1,6 +1,6 @@
-<h1 style="color: #007ACC;">Artificial Intelligence (CSC205)</h1>
+<h1 style="color: #007ACC;">Artificial Intelligence</h1>
 
-<p style="font-size: 18px; color: #333;"><strong>Repository</strong> for Artificial Intelligence Course</p>
+<p style="font-size: 18px; color: #333;"><strong>Repository</strong> for Artificial Intelligence </p>
 
 <p style="font-size: 16px; color: #555;">
     This repository provides a comprehensive collection of resources and implementations, including:
